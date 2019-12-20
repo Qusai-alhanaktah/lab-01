@@ -1,21 +1,8 @@
-@import 'base.css';
-@import 'theme.css';
-@import 'layout.css';
-/* 
-*{
-    box-sizing: border-box;
-}
-header, main{
+
+main{
     margin: auto;
 }
-header{
-    height: 100px;
-    width: 960px;
-    background-color: gray;
-    text-align: center;
-    font-size: large;
 
-}
 main{
     overflow: hidden;
 }
@@ -69,4 +56,5 @@ div, header, footer, aside{
                     height: 250px;
                     width: 190px;
                 }
-            } */
+            }
+
