@@ -1,0 +1,33 @@
+div, header, aside, footer{
+    background-color: #eeeeee;
+    border: 1px solid blueviolet;
+}
+@media screen and (max-width: 960px){
+    footer{
+        border-top: none ;
+    }
+    aside{
+        border-top: none ;
+    }
+    .two, .four{
+        border-top: none ;
+    }
+    .four:nth-of-type(even){
+        border-left: none ;
+
+    }
+}
+@media screen and (min-width: 960px){
+    footer{
+        border-top: none ;
+        border-left: none;
+    }
+    aside{
+        border-top: none ;
+    }
+    div{
+        border-top: none ;
+        border-left: none;
+    }
+    
+}
