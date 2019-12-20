@@ -1,0 +1,72 @@
+@import 'base.css';
+@import 'layout.css';
+@import 'theme.css';
+/* 
+*{
+    box-sizing: border-box;
+}
+header, main{
+    margin: auto;
+}
+header{
+    height: 100px;
+    width: 960px;
+    background-color: gray;
+    text-align: center;
+    font-size: large;
+
+}
+main{
+    overflow: hidden;
+}
+
+div, header, footer, aside{
+    float: left;
+    width: 100%;
+}
+@media screen and (max-width: 960px){
+    main{
+        width: 480px;
+           }
+           header{
+               height: 75px;
+                }
+                aside{
+                    height: 150px;
+                }
+                footer{
+                    height: 80px;
+                }
+                .two{
+                    height: 125px;
+                }
+                .four{
+                    height: 250px;
+                    width: 240px;
+                }
+            }
+
+@media screen and (min-width: 960px){
+    main{
+        width: 960px;
+           }
+           header{
+               height: 100px;
+                }
+                aside{
+                    height: 600px;
+                    width: 200px;
+                }
+                footer{
+                    height: 150px;
+                    width: 760px;
+                }
+                .two{
+                    height: 200px;
+                    width: 380px;
+                }
+                .four{
+                    height: 250px;
+                    width: 190px;
+                }
+            } */
