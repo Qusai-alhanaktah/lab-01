@@ -3,9 +3,10 @@
 ## This project is talking about:
 * learning how to use smacss 
 * consider the response for screen reslution.
+* styling by using float.
 
 
-**This project is built by: raed-alrfou3 & Qusai-alhanaktah**
+**This project is built by: Qusai-alhanaktah**
 
 *I got a little help from my instructor*
 
